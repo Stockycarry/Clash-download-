@@ -1,4 +1,5 @@
 # Clash-for-PC
+**＃下载链接 **
 ＃1、安装与使用
 	
 	1、通过链接下载后安装，无脑下一步即可，打开桌面的 Clash for Windows.exe（部分电脑上没有显示后缀，即文件名叫 Clash for Windows）
