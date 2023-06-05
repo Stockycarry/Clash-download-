@@ -3,7 +3,7 @@
 # 1、安装与使用
 	
 	1、通过链接下载后安装，无脑下一步即可，打开桌面的 Clash for Windows.exe（部分电脑上没有显示后缀，即文件名叫 Clash for Windows）
-	![image](https://github.com/Stockycarry/Clash-download-/assets/82073648/33dcd096-73b7-40a4-8583-922e07c3f680)
+	[![image](https://github.com/Stockycarry/Clash-download-/assets/82073648/33dcd096-73b7-40a4-8583-922e07c3f680)](https://github.com/Stockycarry/Clash-download-/blob/main/clash-win-01.webp)
 
 	2、通过订阅链接下载配置文件，在(Profiles)配置文件一栏里面，复制你购买订阅的链接 URL，然后点击 download（下载）按钮下载订阅文件
 	![image](https://github.com/Stockycarry/Clash-download-/assets/82073648/e3b491d7-793d-4aad-a61f-44002536cdbf)
