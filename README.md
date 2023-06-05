@@ -23,4 +23,5 @@
 ps：上不了网（无法访问，请检查代理） 
 
 # Clash-for-Android
+＃下载链接：https://github.com/Stockycarry/APK-for-android/releases/download/application/clash-for-android.apk
 下载release 中的apk安装使用即可，将购买的订阅链接URL 添加然后下载配置文件即可。
