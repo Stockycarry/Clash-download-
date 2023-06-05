@@ -14,7 +14,8 @@
 # 2windows的汉化
 链接：https://github.com/BoyceLig/Clash_Chinese_Patch/releases/download/0.20.24/app.zip
 下载 app.7z 或 app.zip 文件(两个压缩包内容一样)后，解压压缩包，请自行替换下列路径中的 app.asar 文件（app.asar文件本身是个压缩包，不需要解压，直接替换）
-	# 路径：Clash for Windows\resources\app.asar
+# 路径：Clash for Windows\resources\app.asar
+
 # 2、代理模式（小白可以不看） 
 
 	全局（Global）：所有请求直接发往代理服务器
